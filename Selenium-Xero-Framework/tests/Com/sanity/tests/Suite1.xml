@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="my-suite">
+<test name="my-test">
+<classes>
+<class name="Com.sanity.tests.LoginTests"/>
+<class name="Com.sanity.tests.Loginworngpwd"/>
+<class name="Com.sanity.tests.Lgnforgotpassword"/>
+<class name="Com.sanity.tests.Loginincorreruser"/>
+<class name="Com.sanity.tests.Trail2a"/>
+<class name="Com.sanity.tests.Trail2b"/>
+<class name="Com.sanity.tests.Trail2c"/>
+<class name="Com.sanity.tests.Trail2D"/>
+
+
+</classes>
+</test>
+</suite>
